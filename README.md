@@ -4,3 +4,5 @@ We solve some partial differential equations (PDEs) by using Physics-Informed Ne
 2. Burgers
 3. Heat conduction
 4. Navier-Stokes
+
+来自于b站课程
